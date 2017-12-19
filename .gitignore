@@ -1,0 +1,6 @@
+*.org
+Cargo.lock
+.DS_Store
+.idea
+tmp
+target
