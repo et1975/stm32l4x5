@@ -2,7 +2,7 @@
 
 > Peripheral access API for STM32L4x5 microcontrollers
 
-Generated from http://www.st.com/resource/en/svd/stm32l4_svd.zip with svd2rust v0.11.4
+Generated from http://www.st.com/resource/en/svd/stm32l4_svd.zip with svd2rust v0.12.0
 
 # Issues
 <pre>
